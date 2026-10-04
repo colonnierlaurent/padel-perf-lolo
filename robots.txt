@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colonnierlaurent.github.io/padel-perf-lolo/sitemap.xml
